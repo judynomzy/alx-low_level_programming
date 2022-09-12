@@ -13,5 +13,6 @@ int main(void)
 		printf("%c", a);
 	for (a = 'A'; a <= 'Z'; a++)
 		printf("%c", a);
+	printf("\n");
 	return (0);
 }
