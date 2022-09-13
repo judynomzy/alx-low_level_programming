@@ -11,6 +11,6 @@ int main(void)
 
 	for (a = 'z'; a >= 'a'; a--)
 		printf("%c", a);
-	printf("/n");
+	printf("\n");
 	return (0);
 }
