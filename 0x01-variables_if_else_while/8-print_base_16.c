@@ -7,20 +7,17 @@
  */
 int main (void)
 {
-	unsigned char a = '0'
-		int i;
+	char a;
+	int i;
 
 	for (i = 0; i < 10; i++)
 	{
-		putchar(a);
-		a++;
+		printf("%d", i);
 	}
-	a = '1';
-	for (i = 0; i < 6; i++)
+	for (a = 'a'; a <= 'z'; a++)
 	{
-		putchar('0' + a);
-		a++;
+		printf("%c", a);
 	}
-	putchar("\n");
+	printf("\n");
 	return (0);
 }
