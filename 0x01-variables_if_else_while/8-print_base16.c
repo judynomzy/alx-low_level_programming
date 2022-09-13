@@ -5,7 +5,7 @@
  * Return:always return 0
  *
  */
-int main (void)
+int main(void)
 {
 	char a;
 	int i;
@@ -14,7 +14,7 @@ int main (void)
 	{
 		printf("%d", i);
 	}
-	for (a = 'a'; a <= 'z'; a++)
+	for (a = 'a'; a <= 'f'; a++)
 	{
 		printf("%c", a);
 	}
