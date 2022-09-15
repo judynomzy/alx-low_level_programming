@@ -3,7 +3,7 @@
 
 
 /**
- *
+ i
  *  * main - Entry point
  *
  *   *
@@ -28,7 +28,7 @@ int main(void)
 
 					_putchar('t');
 
-						_putchar('c');
+i						_putchar('c');
 
 							_putchar('h');
 
