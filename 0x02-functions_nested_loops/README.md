@@ -1,1 +1,1 @@
-Creating functions in C
+Creating a header file
