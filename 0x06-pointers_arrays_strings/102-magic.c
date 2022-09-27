@@ -18,6 +18,12 @@ int main(void)
 
 	p = &n;
 
+	printf("a[2] = 98 %d");
+
+	return 0;
+
+}
+
 	/*
 	 *
 	 *    * write your line of code here...

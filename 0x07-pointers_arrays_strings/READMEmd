@@ -1,0 +1,1 @@
+Pointers point to addresses
