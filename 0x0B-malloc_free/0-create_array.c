@@ -11,7 +11,7 @@
  * pointer to array if everything is normal
  */
 
-char *create_array(unsigned int size, char c);
+char *create_array(unsigned int size, char c)
 {
 	char *array;
 	unsigned int index;
