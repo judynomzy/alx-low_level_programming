@@ -9,6 +9,7 @@
  * @size: size of array
  * return: NULL if size is zero or it fails,
  * pointer to array if everything is normal
+ * return array
  */
 
 char *create_array(unsigned int size, char c)
