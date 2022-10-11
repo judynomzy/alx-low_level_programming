@@ -1,0 +1,1 @@
+Strctures can be struct
