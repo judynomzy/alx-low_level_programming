@@ -5,15 +5,11 @@
 
 
 /**
-
  * _strlen - return the lenggth from a string
 
  *  @s: pointer to first character of a string
 
- *
-
  *  Return: number of characters in a string
-
  */
 
 unsigned int _strlen(const char *s)

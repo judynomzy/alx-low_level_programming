@@ -3,7 +3,6 @@
 
 
 /**
-
  * in_the_beginning - function that prints before main executes
 
  * Return: nothing

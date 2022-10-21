@@ -5,14 +5,13 @@
 
 
 /**
-
  * print_list - Prints length and the string, then returns amount of nodes
 
  * @h: Pointer to a struct constant
 
  * Return: Returns amount of node
 
-**/
+ */
 
 
 

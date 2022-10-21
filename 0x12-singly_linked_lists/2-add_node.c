@@ -7,14 +7,13 @@
 
 
 /**
-
  * _strlen - Length of the passed string
 
  * @s: String
 
  * Return: Returns the length of a string
 
-**/
+ */
 
 int _strlen(const char *s)
 
