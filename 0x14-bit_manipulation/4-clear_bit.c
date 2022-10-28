@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
 
  * clear_bit - sets bit to 0 at given index
