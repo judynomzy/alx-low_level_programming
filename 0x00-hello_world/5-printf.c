@@ -3,9 +3,7 @@
 /**
  * main - entry point
  *
- *
  * Description: Using the printf function
- *
  *
  * Return - always 0 (sucess)
  *
